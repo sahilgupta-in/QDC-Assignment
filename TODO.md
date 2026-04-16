@@ -1,0 +1,1 @@
+# Mini Laundry Order System - Push to Git Repo\n\n## Approved Plan Steps\n\n### 1. Resolve merge conflict in README.md (Keep detailed HEAD version)\n### 2. Stage the resolved file\n### 3. Commit the merge\n### 4. Push to remote (main branch)\n### 5. Verify status\n\n**Progress: 0/5 completed**

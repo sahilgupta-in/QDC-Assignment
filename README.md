@@ -1,3 +1,6 @@
+# QDC-Assignment
+>>>>>>> a20d8627106ef8f046a091b98c250f803cabb26b
+=======
 # Mini Laundry Order Management System (AI-First)
 
 A lightweight order tracking API for a dry cleaning store.  
@@ -138,3 +141,7 @@ Import `postman_collection.json` into Postman to test all endpoints quickly.
 - Add estimated delivery date and garment-type analytics
 - Add deployment (Render/Railway) with env-based config
 - Add tests (unit + integration)
+
+=======
+# QDC-Assignment
+>>>>>>> a20d8627106ef8f046a091b98c250f803cabb26b
